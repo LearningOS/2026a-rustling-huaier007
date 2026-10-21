@@ -14,10 +14,10 @@ fn maybe_icecream(time_of_day: u16) -> Option<u16> {
     // time_of_day > 23.
     // TODO: Complete the function body - remember to return an Option!
     if time_of_day < 22 {
-        return Some(5);
+        Some(5)
     }
     else if time_of_day <=23 {
-        return Some(0);
+        Some(0)
     }
     else {
         None;
