@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-huaier007",
-  "commit": "da46f99ceccbf6bf08f2c6370ceb50b6fe89ff28",
-  "score": 79,
+  "commit": "54e1f1dfaa67ca962351fec21bc0175dbd207ff3",
+  "score": 80,
   "totalScore": 110,
   "exercises": [
     {
@@ -541,9 +541,9 @@
     {
       "name": "box1",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "rc1",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "huaier007",
-  "runId": "40532882689",
+  "runId": "40533521687",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
